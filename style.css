@@ -483,6 +483,7 @@ header {
 }
 
 .contact-info {
+  text-decoration: none;
   display: flex;
   flex-direction: column;
   gap: var(--space-md);
