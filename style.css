@@ -483,14 +483,14 @@ header {
 }
 
 .contact-info {
-  text-decoration: none;
   display: flex;
   flex-direction: column;
   gap: var(--space-md);
 }
 
 .contact-info a {
-  text-decoration: none;
+  color: var(--dark)
+  text-decoration:  none;
 }
 
 .contact-item {
