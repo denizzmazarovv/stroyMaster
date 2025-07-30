@@ -489,7 +489,7 @@ header {
 }
 
 .contact-info a {
-  color: var(--dark)
+  color: var(--dark);
   text-decoration:  none;
 }
 
