@@ -489,6 +489,10 @@ header {
   gap: var(--space-md);
 }
 
+.contact-info a {
+  text-decoration: none;
+}
+
 .contact-item {
   display: flex;
   gap: var(--space-sm);
